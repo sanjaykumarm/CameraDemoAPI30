@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onActivityResult(ActivityResult result) {
                         if (result.getResultCode() == Activity.RESULT_OK) {
-                            // There are no request codes
+                            // There are no request codes here in new method
                             Intent data = result.getData();
                             moveImage();
                         }
