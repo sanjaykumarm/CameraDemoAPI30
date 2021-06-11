@@ -1,2 +1,2 @@
 # CameraDemoAPI30
-[![CI Actions Status](https://github.com/{sanjaykumarm}/{CameraDemoAPI30}/workflows/{CI}/badge.svg)](https://github.com/{sanjaykumarm}/{CameraDemoAPI30}/actions
+[![CI](https://github.com/sanjaykumarm/CameraDemoAPI30/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/sanjaykumarm/CameraDemoAPI30/actions/workflows/ci.yml)
